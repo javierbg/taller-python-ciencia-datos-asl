@@ -1,4 +1,4 @@
-name: sklearn-env2
+name: sklearn-env
 dependencies:
    - python>=3.7
    - numpy=1.20
