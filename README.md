@@ -29,7 +29,7 @@ El entorno virtual permanecerá activo hasta que cerremos la terminal o ejecutem
 
 ### Instalación con `conda`
 
-Si dispones de la herramienta `conda` (instrucciones de instalación en Linux [aquí](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)) la instalación es algo más sencilla. `conda` podrá instalar automáticamente una versión de Python compatible si tu distribución no la ofrece.
+Si dispones de la herramienta `conda` (instrucciones de instalación en Linux [aquí](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html), recomiendo instalar la versión reducida "`miniconda`") la instalación es algo más sencilla. `conda` podrá instalar automáticamente una versión de Python compatible si tu distribución no la ofrece.
 
 ```bash
 # Esto creará el entorno virtual especificado en "requirements.yml"
